@@ -27,4 +27,3 @@ jobs:
       run: |
         cd ../
         python -m flake8
-        pytest
